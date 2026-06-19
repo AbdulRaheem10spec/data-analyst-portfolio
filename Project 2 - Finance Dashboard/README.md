@@ -2,7 +2,7 @@
 
 
 
-\---
+---
 
 ## Dashboard Preview
 
@@ -22,7 +22,7 @@ The objective of this project was to build a dashboard that allows management to
 
 
 
-\---
+---
 
 
 
@@ -38,7 +38,7 @@ This project addresses that challenge by consolidating key financial metrics int
 
 
 
-\---
+---
 
 
 
@@ -46,21 +46,21 @@ This project addresses that challenge by consolidating key financial metrics int
 
 
 
-\* Monitor overall financial performance.
+* Monitor overall financial performance.
 
-\* Evaluate revenue and profitability.
+* Evaluate revenue and profitability.
 
-\* Compare business performance across countries.
+* Compare business performance across countries.
 
-\* Analyze product-wise revenue contribution.
+* Analyze product-wise revenue contribution.
 
-\* Identify profitable business segments.
+* Identify profitable business segments.
 
-\* Support financial planning through interactive reporting.
+* Support financial planning through interactive reporting.
 
 
 
-\---
+---
 
 
 
@@ -68,7 +68,7 @@ This project addresses that challenge by consolidating key financial metrics int
 
 
 
-\*\*Dataset:\*\* Financial Sample Dataset
+*\*Dataset:\*\* Financial Sample Dataset
 
 
 
@@ -76,31 +76,31 @@ The dataset contains information related to:
 
 
 
-\* Countries
+* Countries
 
-\* Products
+* Products
 
-\* Business Segments
+* Business Segments
 
-\* Sales Revenue
+* Sales Revenue
 
-\* Cost of Goods Sold (COGS)
+* Cost of Goods Sold (COGS)
 
-\* Gross Profit
+* Gross Profit
 
-\* Units Sold
+* Units Sold
 
-\* Discounts
+* Discounts
 
-\* Manufacturing Price
+* Manufacturing Price
 
-\* Sale Price
+* Sale Price
 
-\* Dates
+* Dates
 
 
 
-\---
+---
 
 
 
@@ -108,17 +108,17 @@ The dataset contains information related to:
 
 
 
-\* Microsoft Excel
+* Microsoft Excel
 
-\* Pivot Tables
+* Pivot Tables
 
-\* Pivot Charts
+* Pivot Charts
 
-\* Slicers
+* Slicers
 
-\* Excel Functions
+* Excel Functions
 
-\* Conditional Formatting
+* Conditional Formatting
 
 
 
@@ -130,17 +130,17 @@ The dataset contains information related to:
 
 
 
-\* Total Revenue
+* Total Revenue
 
-\* Total Profit
+* Total Profit
 
-\* Total Units Sold
+* Total Units Sold
 
-\* Profit Margin (%)
+* Profit Margin (%)
 
 
 
-\---
+---
 
 
 
@@ -148,17 +148,17 @@ The dataset contains information related to:
 
 
 
-\* Revenue by Country
+* Revenue by Country
 
-\* Profit by Segment
+* Profit by Segment
 
-\* Revenue by Product
+* Revenue by Product
 
-\* Monthly Revenue Trend
+* Monthly Revenue Trend
 
 
 
-\---
+---
 
 
 
@@ -166,43 +166,43 @@ The dataset contains information related to:
 
 
 
-\* Interactive financial dashboard
+* Interactive financial dashboard
 
-\* Executive KPI summary
+* Executive KPI summary
 
-\* Country-wise financial analysis
+* Country-wise financial analysis
 
-\* Product performance analysis
+* Product performance analysis
 
-\* Business segment comparison
+* Business segment comparison
 
-\* Monthly revenue trend analysis
+* Monthly revenue trend analysis
 
-\* Clean and professional dashboard design
+* Clean and professional dashboard design
 
 
 
-\---
+---
 
 ### Key Business Insights
 
 
 
-* The \*\*USA\*\* generated the highest revenue among all countries, making it the strongest performing market, while \*\*Mexico\*\* recorded the lowest revenue.
+* The **USA** generated the highest revenue among all countries, making it the strongest performing market, while **Mexico** recorded the lowest revenue.
 
-* The \*\*Government\*\* segment delivered the highest profit (\*\*11.39M\*\*), contributing significantly to overall business profitability.
+* The **Government** segment delivered the highest profit (**11.39M**), contributing significantly to overall business profitability.
 
-* The \*\*Enterprise\*\* segment reported a \*\*negative profit\*\*, indicating an area that requires further business analysis and improvement.
+* The **Enterprise** segment reported a **negative profit**, indicating an area that requires further business analysis and improvement.
 
-* \*\*Paseo\*\* was the highest revenue-generating product, making it the top-performing product in the portfolio.
+* **Paseo** was the highest revenue-generating product, making it the top-performing product in the portfolio.
 
-* \*\*October\*\* recorded the highest monthly revenue, highlighting a strong sales period compared to the rest of the year.
+* **October** recorded the highest monthly revenue, highlighting a strong sales period compared to the rest of the year.
 
-* The business achieved an overall \*\*Profit Margin of 14.23%\*\*, indicating healthy profitability across its operations.
+* The business achieved an overall **Profit Margin of 14.23%**, indicating healthy profitability across its operations.
 
 
 
-\---
+---
 
 
 
@@ -230,11 +230,11 @@ The dataset contains information related to:
 
 
 
-\---
+---
 
 
 
-\# Project Structure
+## Project Structure
 
 
 
@@ -258,7 +258,7 @@ Project 2 - Excel Financial Performance Dashboard
 
 
 
-\---
+---
 
 
 
@@ -266,21 +266,21 @@ Project 2 - Excel Financial Performance Dashboard
 
 
 
-1\. Download the project files.
+1. Download the project files.
 
-2\. Open the Excel dashboard.
+2. Open the Excel dashboard.
 
-3\. Use the interactive slicers to filter the data.
+3. Use the interactive slicers to filter the data.
 
-4\. Review KPIs to evaluate financial performance.
+4. Review KPIs to evaluate financial performance.
 
-5\. Analyze charts to understand country, product, and segment performance.
+5. Analyze charts to understand country, product, and segment performance.
 
-6\. Refer to the documentation for additional project details.
+6. Refer to the documentation for additional project details.
 
 
 
-\---
+---
 
 
 
@@ -292,7 +292,7 @@ This project demonstrates how Microsoft Excel can be used to build an interactiv
 
 
 
-\---
+---
 
 
 
@@ -300,7 +300,7 @@ This project demonstrates how Microsoft Excel can be used to build an interactiv
 
 
 
-\*\*Abdul Raheem\*\*
+**Abdul Raheem**
 
 
 
