@@ -71,7 +71,7 @@ I am currently seeking opportunities as a:
 
 ---
 
-# 📂 Featured Projects
+#  Featured Projects
 
 ## Project 1 – Excel Superstore Sales Dashboard
 
