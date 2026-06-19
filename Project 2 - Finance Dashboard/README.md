@@ -1,4 +1,4 @@
-\# Excel Financial Performance Dashboard
+## Excel Financial Performance Dashboard
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-\# Project Overview
+## Project Overview
 
 
 
@@ -26,7 +26,7 @@ The objective of this project was to build a dashboard that allows management to
 
 
 
-\# Business Problem
+## Business Problem
 
 
 
@@ -42,7 +42,7 @@ This project addresses that challenge by consolidating key financial metrics int
 
 
 
-\# Business Objectives
+## Business Objectives
 
 
 
@@ -64,7 +64,7 @@ This project addresses that challenge by consolidating key financial metrics int
 
 
 
-\# Dataset Information
+## Dataset Information
 
 
 
@@ -104,7 +104,7 @@ The dataset contains information related to:
 
 
 
-\# Tools \& Technologies Used
+## Tools \& Technologies Used
 
 
 
@@ -126,7 +126,7 @@ The dataset contains information related to:
 
 
 
-\# Dashboard KPIs
+## Dashboard KPIs
 
 
 
@@ -144,7 +144,7 @@ The dataset contains information related to:
 
 
 
-\# Dashboard Visuals
+## Dashboard Visuals
 
 
 
@@ -162,7 +162,7 @@ The dataset contains information related to:
 
 
 
-\# Key Features
+## Key Features
 
 
 
@@ -184,21 +184,21 @@ The dataset contains information related to:
 
 \---
 
-\## Key Business Insights
+### Key Business Insights
 
 
 
-\* The \*\*USA\*\* generated the highest revenue among all countries, making it the strongest performing market, while \*\*Mexico\*\* recorded the lowest revenue.
+* The \*\*USA\*\* generated the highest revenue among all countries, making it the strongest performing market, while \*\*Mexico\*\* recorded the lowest revenue.
 
-\* The \*\*Government\*\* segment delivered the highest profit (\*\*11.39M\*\*), contributing significantly to overall business profitability.
+* The \*\*Government\*\* segment delivered the highest profit (\*\*11.39M\*\*), contributing significantly to overall business profitability.
 
-\* The \*\*Enterprise\*\* segment reported a \*\*negative profit\*\*, indicating an area that requires further business analysis and improvement.
+* The \*\*Enterprise\*\* segment reported a \*\*negative profit\*\*, indicating an area that requires further business analysis and improvement.
 
-\* \*\*Paseo\*\* was the highest revenue-generating product, making it the top-performing product in the portfolio.
+* \*\*Paseo\*\* was the highest revenue-generating product, making it the top-performing product in the portfolio.
 
-\* \*\*October\*\* recorded the highest monthly revenue, highlighting a strong sales period compared to the rest of the year.
+* \*\*October\*\* recorded the highest monthly revenue, highlighting a strong sales period compared to the rest of the year.
 
-\* The business achieved an overall \*\*Profit Margin of 14.23%\*\*, indicating healthy profitability across its operations.
+* The business achieved an overall \*\*Profit Margin of 14.23%\*\*, indicating healthy profitability across its operations.
 
 
 
@@ -206,27 +206,27 @@ The dataset contains information related to:
 
 
 
-\# Skills Demonstrated
+## Skills Demonstrated
 
 
 
-\* Financial Data Analysis
+* Financial Data Analysis
 
-\* Data Cleaning
+* Data Cleaning
 
-\* Dashboard Design
+* Dashboard Design
 
-\* KPI Development
+* KPI Development
 
-\* Pivot Table Analysis
+* Pivot Table Analysis
 
-\* Pivot Chart Visualization
+* Pivot Chart Visualization
 
-\* Financial Reporting
+* Financial Reporting
 
-\* Business Analysis
+* Business Analysis
 
-\* Data Visualization
+* Data Visualization
 
 
 
@@ -262,7 +262,7 @@ Project 2 - Excel Financial Performance Dashboard
 
 
 
-\# How to Use
+## How to Use
 
 
 
@@ -284,7 +284,7 @@ Project 2 - Excel Financial Performance Dashboard
 
 
 
-\# Conclusion
+## Conclusion
 
 
 
@@ -296,7 +296,7 @@ This project demonstrates how Microsoft Excel can be used to build an interactiv
 
 
 
-\# Author
+## Author
 
 
 
