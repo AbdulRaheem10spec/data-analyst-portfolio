@@ -1,12 +1,27 @@
-\# Adventure Works Business Intelligence Dashboard
+# Adventure Works Business Intelligence Dashboard
+
+
+## Dashboard Preview
+
+### Executive Dashboard
+
+![Executive sales Dashboard](03_Dashboard_Screenshots/Executive sales Dashboard.png)
+
+### Country Analysis Dashboard
+
+![Product Intelligence Dashboard](03_Dashboard_Screenshots/Product Intelligence Dashboard.png)
+
+### Product Analysis Dashboard
+
+![Sales Intelligence Dashboard](03_Dashboard_Screenshots/Sales Intelligence Dashboard.png)
 
 
 
-\---
+---
 
 
 
-\# Project Overview
+# Project Overview
 
 
 
@@ -22,11 +37,11 @@ The project demonstrates practical Business Intelligence concepts such as data m
 
 
 
-\---
+---
 
 
 
-\# Business Problem
+# Business Problem
 
 
 
@@ -38,41 +53,41 @@ The objective of this project was to build an interactive Business Intelligence 
 
 
 
-\---
+---
 
 
 
-\# Business Objectives
+# Business Objectives
 
 
 
-\- Monitor overall business performance.
+* Monitor overall business performance.
 
-\- Track sales and profitability.
+* Track sales and profitability.
 
-\- Analyze sales trends over time.
+* Analyze sales trends over time.
 
-\- Compare territory-wise revenue.
+* Compare territory-wise revenue.
 
-\- Evaluate product performance.
+* Evaluate product performance.
 
-\- Identify high-performing products.
+* Identify high-performing products.
 
-\- Analyze product categories and subcategories.
+* Analyze product categories and subcategories.
 
-\- Support business decisions through interactive reporting.
-
-
-
-\---
+* Support business decisions through interactive reporting.
 
 
 
-\# Dataset Information
+---
 
 
 
-\*\*Dataset:\*\* Adventure Works Sales Dataset
+# Dataset Information
+
+
+
+**Dataset:** Adventure Works Sales Dataset
 
 
 
@@ -80,63 +95,63 @@ The dataset includes information related to:
 
 
 
-\- Sales Orders
+* Sales Orders
 
-\- Products
+* Products
 
-\- Product Categories
+* Product Categories
 
-\- Product Subcategories
+* Product Subcategories
 
-\- Customers
+* Customers
 
-\- Sales Territories
+* Sales Territories
 
-\- Dates
+* Dates
 
-\- Revenue
+* Revenue
 
-\- Gross Profit
+* Gross Profit
 
-\- Quantity Sold
+* Quantity Sold
 
-\- Order Details
-
-
-
-\---
+* Order Details
 
 
 
-\# Tools \& Technologies Used
+---
 
 
 
-\- Microsoft Power BI
-
-\- Power Query
-
-\- Data Modeling
-
-\- DAX
-
-\- Interactive Visualizations
-
-\- Slicers
-
-\- Matrix Visuals
+# Tools & Technologies Used
 
 
 
-\---
+* Microsoft Power BI
+
+* Power Query
+
+* Data Modeling
+
+* DAX
+
+* Interactive Visualizations
+
+* Slicers
+
+* Matrix Visuals
 
 
 
-\# Dashboard Pages
+---
 
 
 
-\### Executive Sales Dashboard
+# Dashboard Pages
+
+
+
+### Executive Sales Dashboard
 
 
 
@@ -148,31 +163,31 @@ Includes:
 
 
 
-\- Total Revenue
+* Total Revenue
 
-\- Total Orders
+* Total Orders
 
-\- Total Customers
+* Total Customers
 
-\- Total Quantity Sold
+* Total Quantity Sold
 
-\- Average Selling Price
+* Average Selling Price
 
-\- Monthly Revenue Trend
+* Monthly Revenue Trend
 
-\- Revenue by Territory
+* Revenue by Territory
 
-\- Sales by Product Category
+* Sales by Product Category
 
-\- Top 10 Products
-
-
-
-\---
+* Top 10 Products
 
 
 
-\### Sales Intelligence Dashboard
+---
+
+
+
+### Sales Intelligence Dashboard
 
 
 
@@ -184,29 +199,29 @@ Includes:
 
 
 
-\- Total Sales
+* Total Sales
 
-\- Gross Profit
+* Gross Profit
 
-\- Gross Profit Margin
+* Gross Profit Margin
 
-\- Average Selling Price
+* Average Selling Price
 
-\- Sales vs Gross Profit by Month
+* Sales vs Gross Profit by Month
 
-\- Sales by Product Subcategory
+* Sales by Product Subcategory
 
-\- Orders by Month
+* Orders by Month
 
-\- Most Profitable Products
-
-
-
-\---
+* Most Profitable Products
 
 
 
-\### Product Intelligence Dashboard
+---
+
+
+
+### Product Intelligence Dashboard
 
 
 
@@ -218,175 +233,175 @@ Includes:
 
 
 
-\- Total Products
+* Total Products
 
-\- Active Products Sold
+* Active Products Sold
 
-\- Average Product Price
+* Average Product Price
 
-\- Total Subcategories
+* Total Subcategories
 
-\- Gross Profit by Product Category
+*  Gross Profit by Product Category
 
-\- Average Selling Price by Product Category
+* Average Selling Price by Product Category
 
-\- Top 10 Products by Quantity Sold
+* Top 10 Products by Quantity Sold
 
-\- Top 10 Products by Gross Profit
+* Top 10 Products by Gross Profit
 
 
 
-\---
+---
 
 
 
-\# KPIs Used
+# KPIs Used
 
 
 
-\- Total Revenue
+* Total Revenue
 
-\- Total Sales
+* Total Sales
 
-\- Total Orders
+* Total Orders
 
-\- Total Customers
+* Total Customers
 
-\- Total Quantity Sold
+* Total Quantity Sold
 
-\- Gross Profit
+* Gross Profit
 
-\- Gross Profit Margin %
+* Gross Profit Margin %
 
-\- Average Selling Price
+* Average Selling Price
 
-\- Average Product Price
+* Average Product Price
 
-\- Total Products
+* Total Products
 
-\- Active Products Sold
+* Active Products Sold
 
-\- Total Subcategories
+* Total Subcategories
 
 
 
-\---
+---
 
 
 
-\# Skills Demonstrated
+# Skills Demonstrated
 
 
 
-\- Data Cleaning
+* Data Cleaning
 
-\- Power Query
+* Power Query
 
-\- Data Modeling
+* Data Modeling
 
-\- DAX Measures
+* DAX Measures
 
-\- KPI Development
+* KPI Development
 
-\- Business Intelligence
+* Business Intelligence
 
-\- Dashboard Design
+* Dashboard Design
 
-\- Interactive Reporting
+* Interactive Reporting
 
-\- Data Visualization
+* Data Visualization
 
-\- Business Analysis
+* Business Analysis
 
-\- Power BI Best Practices
+* Power BI Best Practices
 
 
 
-\---
+---
 
 
 
-\# Key Business Insights
+# Key Business Insights
 
 
 
-\### Executive Sales Dashboard
+### Executive Sales Dashboard
 
 
 
-\- Southwest generated the highest revenue among all sales territories.
+* Southwest generated the highest revenue among all sales territories.
 
-\- Bikes contributed the highest revenue, significantly outperforming other product categories.
+* Bikes contributed the highest revenue, significantly outperforming other product categories.
 
-\- Monthly revenue peaked in March and November, indicating strong seasonal sales performance.
+* Monthly revenue peaked in March and November, indicating strong seasonal sales performance.
 
-\- A small group of products contributed a significant share of total revenue.
+* A small group of products contributed a significant share of total revenue.
 
 
 
-\### Sales Intelligence Dashboard
+### Sales Intelligence Dashboard
 
 
 
-\- Gross Profit followed sales trends closely throughout the year.
+* Gross Profit followed sales trends closely throughout the year.
 
-\- Mountain Bikes generated substantially higher sales than Road Bikes.
+* Mountain Bikes generated substantially higher sales than Road Bikes.
 
-\- The most profitable products were primarily Mountain Bike models.
+* The most profitable products were primarily Mountain Bike models.
 
-\- Monthly order volume remained relatively consistent with noticeable peaks during March and May.
+* Monthly order volume remained relatively consistent with noticeable peaks during March and May.
 
 
 
-\### Product Intelligence Dashboard
+### Product Intelligence Dashboard
 
 
 
-\- Bikes generated the highest gross profit among all product categories.
+* Bikes generated the highest gross profit among all product categories.
 
-\- Bikes also recorded the highest average selling price.
+* Bikes also recorded the highest average selling price.
 
-\- Fender Set - Mountain and Mountain Bottle Cage were among the highest-selling products by quantity.
+* Fender Set - Mountain and Mountain Bottle Cage were among the highest-selling products by quantity.
 
-\- HL Mountain Tire generated the highest gross profit among individual products.
+* HL Mountain Tire generated the highest gross profit among individual products.
 
 
 
-\---
+---
 
 
 
-\# Key Features
+# Key Features
 
 
 
-\- Multi-page Business Intelligence Dashboard
+* Multi-page Business Intelligence Dashboard
 
-\- Interactive KPI Cards
+* Interactive KPI Cards
 
-\- Territory Analysis
+* Territory Analysis
 
-\- Product Performance Analysis
+* Product Performance Analysis
 
-\- Profitability Analysis
+* Profitability Analysis
 
-\- Trend Analysis
+* Trend Analysis
 
-\- Business-focused Dashboard Design
+* Business-focused Dashboard Design
 
-\- Interactive Filtering
+* Interactive Filtering
 
-\- Executive Reporting
+* Executive Reporting
 
-\- Consistent Dashboard Layout
+* Consistent Dashboard Layout
 
 
 
-\---
+---
 
 
 
-\# Project Structure
+# Project Structure
 
 
 
@@ -422,29 +437,29 @@ Project 4 - Adventure Works Business Intelligence Dashboard
 
 
 
-\# How to Use
+# How to Use
 
 
 
-1\. Download the project files.
+1. Download the project files.
 
-2\. Open the Power BI (.pbix) file.
+2. Open the Power BI (.pbix) file.
 
-3\. Explore the Executive Sales Dashboard for an overall business summary.
+3. Explore the Executive Sales Dashboard for an overall business summary.
 
-4\. Navigate to the Sales Intelligence Dashboard to analyze sales trends and profitability.
+4. Navigate to the Sales Intelligence Dashboard to analyze sales trends and profitability.
 
-5\. Open the Product Intelligence Dashboard to evaluate product performance and product-level insights.
+5. Open the Product Intelligence Dashboard to evaluate product performance and product-level insights.
 
-6\. Use the territory slicer to interactively filter the dashboard.
-
-
-
-\---
+6. Use the territory slicer to interactively filter the dashboard.
 
 
 
-\# Conclusion
+---
+
+
+
+# Conclusion
 
 
 
@@ -452,19 +467,19 @@ This project demonstrates how Power BI can transform transactional sales data in
 
 
 
-\---
+---
 
 
 
-\# Author
+# Author
 
 
 
-\*\*Abdul Raheem\*\*
+**Abdul Raheem**
 
 
 
-MBA (Finance \& Business Analytics)
+MBA (Finance & Business Analytics)
 
 
 
