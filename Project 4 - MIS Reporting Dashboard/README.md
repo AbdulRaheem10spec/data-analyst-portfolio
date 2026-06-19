@@ -3,15 +3,15 @@
 
 ## Dashboard Preview
 
-### Executive Dashboard
+### Executive sales Dashboard
 
 ![Executive sales Dashboard](03_Dashboard_Screenshots/Executive sales Dashboard.png)
 
-### Country Analysis Dashboard
+### Product Intelligence Dashboard
 
 ![Product Intelligence Dashboard](03_Dashboard_Screenshots/Product Intelligence Dashboard.png)
 
-### Product Analysis Dashboard
+### Sales Intelligence Dashboard
 
 ![Sales Intelligence Dashboard](03_Dashboard_Screenshots/Sales Intelligence Dashboard.png)
 
