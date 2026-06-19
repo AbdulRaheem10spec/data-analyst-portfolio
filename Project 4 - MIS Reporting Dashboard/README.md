@@ -3,17 +3,21 @@
 
 ## Dashboard Preview
 
-### Executive sales Dashboard
+### Executive Dashboard
 
-![Executive sales Dashboard](03_Dashboard_Screenshots/Executive sales Dashboard.png)
+![Executive Dashboard](03_Dashboard_Screenshots/Executive%20sales%20Dashboard.png)
 
-### Product Intelligence Dashboard
-
-![Product Intelligence Dashboard](03_Dashboard_Screenshots/Product Intelligence Dashboard.png)
+---
 
 ### Sales Intelligence Dashboard
 
-![Sales Intelligence Dashboard](03_Dashboard_Screenshots/Sales Intelligence Dashboard.png)
+![Sales Intelligence Dashboard](03_Dashboard_Screenshots/Sales%20Intelligence%20Dashboard.png)
+
+---
+
+### Product Intelligence Dashboard
+
+![Product Intelligence Dashboard](03_Dashboard_Screenshots/Product%20Intelligence%20Dashboard.png)
 
 
 
