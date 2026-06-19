@@ -1,4 +1,4 @@
-\# Excel Superstore Sales Dashboard
+## Excel Superstore Sales Dashboard
 
 ## Dashboard Preview
 
@@ -6,11 +6,11 @@
 
 
 
-\---
+---
 
 
 
-\# Project Overview
+## Project Overview
 
 
 
@@ -22,11 +22,11 @@ The report enables business users to quickly evaluate overall sales performance,
 
 
 
-\---
+---
 
 
 
-\# Business Problem
+## Business Problem
 
 
 
@@ -38,37 +38,37 @@ The objective of this project was to create a centralized dashboard that simplif
 
 
 
-\---
+---
 
 
 
-\# Business Objectives
+## Business Objectives
 
 
 
-\* Monitor overall sales performance
+* Monitor overall sales performance
 
-\* Track business profitability
+* Track business profitability
 
-\* Analyze monthly sales trends
+* Analyze monthly sales trends
 
-\* Compare regional performance
+* Compare regional performance
 
-\* Identify top-selling products
+* Identify top-selling products
 
-\* Support faster business decision-making
-
-
-
-\---
+* Support faster business decision-making
 
 
 
-\# Dataset Information
+---
 
 
 
-\*\*Dataset:\*\* Superstore Sales Dataset
+## Dataset Information
+
+
+
+**Dataset:** Superstore Sales Dataset
 
 
 
@@ -76,111 +76,111 @@ The dataset contains information related to:
 
 
 
-\* Orders
+* Orders
 
-\* Customers
+* Customers
 
-\* Products
+* Products
 
-\* Categories
+* Categories
 
-\* Sub-Categories
+* Sub-Categories
 
-\* Regions
+* Regions
 
-\* Sales
+* Sales
 
-\* Profit
+* Profit
 
-\* Quantity
+* Quantity
 
-\* Discounts
+* Discounts
 
-\* Shipping Details
+* Shipping Details
 
 
 
-\---
+---
 
 
 
-\# Tools \& Technologies Used
+## Tools & Technologies Used
 
 
 
-\* Microsoft Excel
+* Microsoft Excel
 
-\* Pivot Tables
+* Pivot Tables
 
-\* Pivot Charts
+* Pivot Charts
 
-\* Slicers
+* Slicers
 
-\* Excel Functions
+* Excel Functions
 
-\* Conditional Formatting
+* Conditional Formatting
 
 
 
-\---
+---
 
 
 
-\# Dashboard KPIs
+## Dashboard KPIs
 
 
 
-\* Total Sales
+* Total Sales
 
-\* Total Profit
+* Total Profit
 
-\* Profit Margin (%)
+* Profit Margin (%)
 
 
 
-\---
+---
 
 
 
-\# Dashboard Visuals
+## Dashboard Visuals
 
 
 
-\* Monthly Sales Trend
+* Monthly Sales Trend
 
-\* Sales by Region
+* Sales by Region
 
-\* Sales by Category
+* Sales by Category
 
-\* Top 10 Products by Sales
+* Top 10 Products by Sales
 
 
 
-\---
+---
 
 
 
-\# Key Features
+## Key Features
 
 
 
-\* Interactive dashboard with slicers
+* Interactive dashboard with slicers
 
-\* Executive KPI summary
+* Executive KPI summary
 
-\* Monthly sales trend analysis
+* Monthly sales trend analysis
 
-\* Regional sales comparison
+* Regional sales comparison
 
-\* Product performance analysis
+* Product performance analysis
 
-\* Professional dashboard layout
+* Professional dashboard layout
 
-\* Business-oriented visualizations
+* Business-oriented visualizations
 
 
 
-\---
+---
 
 
 
@@ -200,39 +200,39 @@ The dataset contains information related to:
 
 
 
-\---
+---
 
 
 
-\# Skills Demonstrated
+## Skills Demonstrated
 
 
 
-\* Data Cleaning
+* Data Cleaning
 
-\* Data Validation
+* Data Validation
 
-\* Dashboard Design
+* Dashboard Design
 
-\* KPI Development
+* KPI Development
 
-\* Pivot Table Analysis
+* Pivot Table Analysis
 
-\* Pivot Chart Visualization
+* Pivot Chart Visualization
 
-\* Business Analysis
+* Business Analysis
 
-\* Data Visualization
+* Data Visualization
 
-\* Excel Reporting
-
-
-
-\---
+* Excel Reporting
 
 
 
-\# Project Structure
+---
+
+
+
+## Project Structure
 
 
 
@@ -256,31 +256,31 @@ Project 1 - Excel Superstore Sales Dashboard
 
 
 
-\---
+---
 
 
 
-\# How to Use
+## How to Use
 
 
 
-1\. Download the project files.
+1. Download the project files.
 
-2\. Open the Excel dashboard.
+2. Open the Excel dashboard.
 
-3\. Use the slicers to filter the data.
+3. Use the slicers to filter the data.
 
-4\. Explore KPIs and charts to analyze sales performance.
+4. Explore KPIs and charts to analyze sales performance.
 
-5\. Review the documentation for additional project details.
-
-
-
-\---
+5. Review the documentation for additional project details.
 
 
 
-\# Conclusion
+---
+
+
+
+## Conclusion
 
 
 
@@ -288,19 +288,19 @@ This project demonstrates how Microsoft Excel can be used to transform raw sales
 
 
 
-\---
+---
 
 
 
-\# Author
+## Author
 
 
 
-\*\*Abdul Raheem\*\*
+**Abdul Raheem**
 
 
 
-MBA (Finance \& Business Analytics)
+MBA (Finance & Business Analytics)
 
 
 
