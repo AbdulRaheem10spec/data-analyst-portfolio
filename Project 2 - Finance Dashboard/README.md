@@ -4,6 +4,10 @@
 
 \---
 
+## Dashboard Preview
+
+![Superstore Sales Dashboard](03_Dashboard_Screenshots/Project2_Dashboard.png)
+
 
 
 \# Project Overview
