@@ -1,5 +1,9 @@
 \# Excel Superstore Sales Dashboard
 
+## Dashboard Preview
+
+![Superstore Sales Dashboard](03_Dashboard_Screenshots/Superstore_Sales_Dashboard.png)
+
 
 
 \---
