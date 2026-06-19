@@ -68,7 +68,7 @@ This project addresses that challenge by consolidating key financial metrics int
 
 
 
-*\*Dataset:\*\* Financial Sample Dataset
+**Dataset:** Financial Sample Dataset
 
 
 
@@ -104,7 +104,7 @@ The dataset contains information related to:
 
 
 
-## Tools \& Technologies Used
+## Tools & Technologies Used
 
 
 
@@ -122,7 +122,7 @@ The dataset contains information related to:
 
 
 
-\---
+---
 
 
 
@@ -304,7 +304,7 @@ This project demonstrates how Microsoft Excel can be used to build an interactiv
 
 
 
-MBA (Finance \& Business Analytics)
+MBA (Finance & Business Analytics)
 
 
 
