@@ -488,14 +488,3 @@ MBA (Finance & Business Analytics)
 Aspiring Data Analyst | Power BI | Excel | SQL | Python
 
 
-
-LinkedIn:
-
-www.linkedin.com/in/abdulraheem552
-
-
-
-Email:
-
-abdulraheemmba2025@gmail.com
-
