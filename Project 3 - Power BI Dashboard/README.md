@@ -3,8 +3,21 @@
 
 ## Dashboard Preview
 
-![Superstore Sales Dashboard](03_Dashboard_Screenshots/Executive_Dashboard.png/Country_Analysis_Dashboard.png/Product_Analysis_Dashboard.png/Segment_Analysis.png)
+### Executive Dashboard
 
+![Executive Dashboard](03_Dashboard_Screenshots/Executive_Dashboard.png)
+
+### Country Analysis Dashboard
+
+![Country Analysis Dashboard](03_Dashboard_Screenshots/Country_Analysis_Dashboard.png)
+
+### Product Analysis Dashboard
+
+![Product Analysis Dashboard](03_Dashboard_Screenshots/Product_Analysis_Dashboard.png)
+
+### Segment Analysis Dashboard
+
+![Segment Analysis Dashboard](03_Dashboard_Screenshots/Segment_Analysis.png)
 
 ## Overview
 
